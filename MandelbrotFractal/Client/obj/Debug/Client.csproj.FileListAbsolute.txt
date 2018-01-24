@@ -1,0 +1,6 @@
+D:\STUDIA\programy\MandelbrotFractal\Client\bin\Debug\Client.exe.config
+D:\STUDIA\programy\MandelbrotFractal\Client\bin\Debug\Client.exe
+D:\STUDIA\programy\MandelbrotFractal\Client\bin\Debug\Client.pdb
+D:\STUDIA\programy\MandelbrotFractal\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\STUDIA\programy\MandelbrotFractal\Client\obj\Debug\Client.exe
+D:\STUDIA\programy\MandelbrotFractal\Client\obj\Debug\Client.pdb

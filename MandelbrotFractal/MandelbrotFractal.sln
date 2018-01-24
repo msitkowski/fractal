@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MandelbrotFractal", "MandelbrotFractal\MandelbrotFractal.csproj", "{57965567-4291-4AB2-9417-6A65F8BD12E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalTest", "..\FractalTest\FractalTest\FractalTest.csproj", "{744412D5-50C7-4F9F-BCF1-BC3A9CCC8994}"
+	ProjectSection(ProjectDependencies) = postProject
+		{57965567-4291-4AB2-9417-6A65F8BD12E4} = {57965567-4291-4AB2-9417-6A65F8BD12E4}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57965567-4291-4AB2-9417-6A65F8BD12E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57965567-4291-4AB2-9417-6A65F8BD12E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57965567-4291-4AB2-9417-6A65F8BD12E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57965567-4291-4AB2-9417-6A65F8BD12E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744412D5-50C7-4F9F-BCF1-BC3A9CCC8994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744412D5-50C7-4F9F-BCF1-BC3A9CCC8994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744412D5-50C7-4F9F-BCF1-BC3A9CCC8994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744412D5-50C7-4F9F-BCF1-BC3A9CCC8994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

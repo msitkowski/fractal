@@ -1,0 +1,6 @@
+D:\STUDIA\programy\MandelbrotFractal\MandelbrotFractal\bin\MandelbrotFractal.dll
+D:\STUDIA\programy\MandelbrotFractal\MandelbrotFractal\bin\MandelbrotFractal.pdb
+D:\STUDIA\programy\MandelbrotFractal\MandelbrotFractal\obj\Debug\MandelbrotFractal.dll
+D:\STUDIA\programy\MandelbrotFractal\MandelbrotFractal\obj\Debug\MandelbrotFractal.pdb
+D:\STUDIA\programy\MandelbrotFractal\MandelbrotFractal\bin\MandelbrotFractal.dll.config
+D:\STUDIA\programy\MandelbrotFractal\MandelbrotFractal\obj\Debug\MandelbrotFractal.csprojResolveAssemblyReference.cache

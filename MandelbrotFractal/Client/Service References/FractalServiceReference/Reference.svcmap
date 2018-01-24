@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="63e23d81-ac4d-475e-acb0-f7ed134d1e12" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:2206/FractalService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="ac4c8585-324e-4a4e-8391-893d635fddd3" SourceId="1" SourceUrl="http://localhost:2206/FractalService.svc?wsdl" />
+    <MetadataFile FileName="FractalService.xsd" MetadataType="Schema" ID="4757297e-6beb-4e40-bf1d-64c4a2bd693e" SourceId="1" SourceUrl="http://localhost:2206/FractalService.svc?xsd=xsd1" />
+    <MetadataFile FileName="FractalService1.xsd" MetadataType="Schema" ID="5318b8b3-4121-4df7-828f-bb311199c05b" SourceId="1" SourceUrl="http://localhost:2206/FractalService.svc?xsd=xsd0" />
+    <MetadataFile FileName="FractalService.disco" MetadataType="Disco" ID="e7ce3d9d-dddd-42b7-889b-f6f8fa4dd10c" SourceId="1" SourceUrl="http://localhost:2206/FractalService.svc?disco" />
+    <MetadataFile FileName="FractalService2.xsd" MetadataType="Schema" ID="52444bc6-fe5b-48f1-afb2-edb7bf4123c0" SourceId="1" SourceUrl="http://localhost:2206/FractalService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

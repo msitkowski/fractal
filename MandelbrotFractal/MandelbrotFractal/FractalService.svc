@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MandelbrotFractal.Service1" CodeBehind="FractalService.svc.cs" %>
